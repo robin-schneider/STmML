@@ -3,7 +3,7 @@
 This repository is part of a lecture series given at Uppsala University, November 2020.
 There are two directories, *latex* containing the presentation slides, and *notebooks* containing several jupyter notebooks.  
 In total there are 4+1 lectures, split into one half theory and one half coding each.  
-The goal of this series is to give participant hands on experience on how to utilize neural networks to tackle problems in string theory. We will reproduce results of a couple of recent papers and I'll also present some ongoing project I'm currently working on.  
+The goal of this series is to give participants hands on experience on how to utilize neural networks to tackle problems in string theory. We will reproduce results of a couple of recent papers and I'll also present some ongoing project I'm currently working on.  
 The interested reader will find exercises and some open questions after each coding session. Hopefully these will inspire some to further dive in and investigate this rather new subfield of string theory.
 
 ## Schedule
