@@ -3,7 +3,7 @@
 This repository is part of a lecture series given at Uppsala University, November 2020.
 There are two directories, *latex* containing the presentation slides, and *notebooks* containing several jupyter notebooks.  
 In total there are 4+1 lectures, split into one half theory and one half coding each.  
-The goal of this series is to give participants hands on experience on how to utilize neural networks to tackle problems in string theory. We will reproduce results of a couple of recent papers and I'll also present some ongoing project I'm currently working on.  
+The goal of this series is to give participants hands on experience on how to utilize neural networks to tackle problems in string theory. We will reproduce results of a couple of recent papers and I'll also present some ongoing project(s) I'm currently working on.  
 The interested reader will find exercises and some open questions after each coding session. Hopefully these will inspire some to further dive in and investigate this rather new subfield of string theory.
 
 ## Schedule
@@ -11,12 +11,12 @@ The interested reader will find exercises and some open questions after each cod
 Lectures will all be given on [Zoom](https://uu-se.zoom.us/j/8094988349).
 
 Monday 23.11 - 13.15:  
-Session 1 - Neural Networks  
-Application: Learning stability
+[Session 1](https://github.com/robin-schneider/STmML/blob/main/latex/1/session1.pdf) - Neural Networks  
+Application: [Learning stability](https://github.com/robin-schneider/STmML/blob/main/notebooks/Session%201%20-%20First%20NN.ipynb)
 
 Tuesday 24.11 - 13.15:  
-Session 2 - Regularization and CNNs  
-Application: Learning Hodge numbers
+[Session 2](https://github.com/robin-schneider/STmML/blob/main/latex/2/session2.pdf) - Regularization and CNNs  
+Application: [Learning Hodge numbers](https://github.com/robin-schneider/STmML/blob/main/notebooks/Session%202%20-%20Predicting%20Hodge%20numbers.ipynb)
 
 Wednesday 25.11 - 15.15:  
 Session 3 - Hyperparameter optimization  
