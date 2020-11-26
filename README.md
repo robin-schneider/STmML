@@ -8,7 +8,7 @@ The interested reader will find exercises and some open questions after each cod
 
 ## Schedule
 
-Lectures will all be given on [Zoom](https://uu-se.zoom.us/j/8094988349).
+Thanks to all the participants. If you have further questions to any of the notebooks or slides, don't hesitate to contact me. The last lecture will be given as part of the Uppsala journal club and will not include a coding session. 
 
 Monday 23.11 - 13.15:  
 [Session 1](https://github.com/robin-schneider/STmML/blob/main/latex/1/session1.pdf) - Neural Networks  
@@ -19,15 +19,17 @@ Tuesday 24.11 - 13.15:
 Application: [Learning Hodge numbers](https://github.com/robin-schneider/STmML/blob/main/notebooks/Session%202%20-%20Predicting%20Hodge%20numbers.ipynb)
 
 Wednesday 25.11 - 15.15:  
-Session 3 - Hyperparameter optimization  
-Application: Learning CY metrics
+[Session 3](https://github.com/robin-schneider/STmML/blob/main/latex/3/session3.pdf) - Hyperparameter optimization  
+Application: [Learning CY metrics](https://github.com/robin-schneider/STmML/blob/main/notebooks/Session%203%20-%20Learning%20CY%20metric.ipynb)
 
 Thursday 26.11 - 13.15:  
-Session 4 - (Variational) Autoencoder  
-Application: Clustering of standard like models
+[Session 4](https://github.com/robin-schneider/STmML/blob/main/latex/4/session4.pdf) - (Variational) Autoencoder  
+Application: [Clustering of standard like models](https://github.com/robin-schneider/STmML/blob/main/notebooks/Session%204%20-%20VAE%20and%20clustering.ipynb)
 
 Friday 04.12 - 13.15 (Journal club):  
-Session 5 - Reinforcement learning - Exploring standard like models
+Session 5 - Reinforcement learning - Exploring standard like models  
+[gymCICY tutorial](https://github.com/robin-schneider/gymCICY/blob/master/agents/Tutorial.ipynb)
+
 
 ## Literature
 
