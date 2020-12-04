@@ -27,7 +27,7 @@ Thursday 26.11 - 13.15:
 Application: [Clustering of standard like models](https://github.com/robin-schneider/STmML/blob/main/notebooks/Session%204%20-%20VAE%20and%20clustering.ipynb)
 
 Friday 04.12 - 13.15 (Journal club):  
-Session 5 - Reinforcement learning - Exploring standard like models  
+[Session 5](https://github.com/robin-schneider/STmML/blob/main/latex/5/session5.pdf) - Reinforcement learning - Exploring standard like models  
 [gymCICY tutorial](https://github.com/robin-schneider/gymCICY/blob/master/agents/Tutorial.ipynb)
 
 
@@ -46,4 +46,4 @@ Proper machine learning books:
 
 ## Seminars
 
-There is an ongoing seminar series 'Physics meets ML' which can be found [here](http://physicsmeetsml.org/). Before Christmas there will be the fourth (?) edition of [string data](https://indico.cern.ch/event/958074/). Registration is still [open](https://indico.cern.ch/event/958074/registrations/64758/). Magdalena is going to talk about our [explore and exploit](https://github.com/robin-schneider/gymCICY) [paper](https://arxiv.org/abs/2003.04817).
+There is an ongoing seminar series 'Physics meets ML' which can be found [here](http://physicsmeetsml.org/). Before Christmas there will be the fourth (?) edition of [string data](https://indico.cern.ch/event/958074/). Magdalena is going to talk about our [explore and exploit](https://github.com/robin-schneider/gymCICY) [paper](https://arxiv.org/abs/2003.04817).

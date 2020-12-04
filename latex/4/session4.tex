@@ -309,9 +309,9 @@ How does the KL divergence for two Gaussians look like?
 	D_{KL} (\cN_0 || \cN_1) &= \frac{1}{2} \bigg( \text{tr} ( \Sigma_1^{-1} \Sigma_0) + (\mu_1 - \mu_0)^T \Sigma_1^{-1} (\mu_1 - \mu) \nonumber  \\
 	& \qquad \qquad   - k + \ln \left[ \frac{\det \Sigma_1}{\det \Sigma_0}\right] \bigg)
 \end{align}
-Hence, for $k=2$ latent dimensions and $\cN_0 = q_\phi (z|X) = \cN (\mu_\phi, \sigma_\phi) $ and $\cN_1 = p (z) = \cN(0,I)$, we simplify
+Hence, for $k=2$ latent dimensions and $\cN_0 = q_\phi (z|X) = \cN (\mu_\phi, \sigma_\phi) $ and $\cN_1 = p (z) = \cN(0,I)$, we simplify to KL loss
 \begin{align}
-	J_{KL} = - D_{KL} = - \sigma^2_\phi - \mu_\phi^2 + 1 + \log(\sigma^2_\phi)
+	J_{KL} =  \sigma^2_\phi + \mu_\phi^2 - 1 - \log(\sigma^2_\phi)
 \end{align}
 In total:
 \begin{align}
