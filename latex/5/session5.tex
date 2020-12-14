@@ -299,8 +299,8 @@ What happens if our state space is too vast to store in memory or too large to e
 
 Asynchronous Advantage Actor Critic (A3C) surpassed state of the art performance in many benchmarks {\color{blue}[1602.01783]}. They
 \begin{itemize}
-	\item use a NN as Critic to update $\pi$,
-	\item use a NN as Actor to update $q_\pi(s,a)$,
+	\item use a NN as Actor to update $\pi$,
+	\item use a NN as Critic to update $q_\pi(s,a)$,
 	\item can be trained on a single CPU by updating global parameters asynchronously from local agents,
 	\item are stable and robust (on considered benchmarks).
 \end{itemize}
